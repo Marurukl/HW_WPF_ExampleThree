@@ -1,0 +1,14 @@
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\bin\Debug\ExampleThree.exe.config
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\bin\Debug\ExampleThree.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\bin\Debug\ExampleThree.pdb
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.csprojResolveAssemblyReference.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\MainWindow.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\App.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree_MarkupCompile.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree_MarkupCompile.lref
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\MainWindow.baml
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.g.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.Properties.Resources.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.csproj.GenerateResource.Cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleThree\ExampleThree\obj\Debug\ExampleThree.pdb

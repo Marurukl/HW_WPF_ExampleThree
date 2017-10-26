@@ -1,0 +1,25 @@
+﻿<Window x:Class="ExampleThree.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleThree"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="517">
+            <MenuItem Header="File">
+                <MenuItem Name="openFileMenuItem" Header="Open" Click="OpenFileMenuItem_Click"/>
+                <MenuItem Name="saveFileMenuItem" Header="Save" Click="SaveFileMenuItem_Click"/>
+                <Separator/>
+                <MenuItem Name="exitAppMenuItem" Header="Exit" Click="ExitAppMenuItem_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Name="cutTextMenuItem" Header="Cut" Click="CutTextMenuItem_Click"/>
+                <MenuItem Name="copyTextMenuItem" Header="Copy" Click="CopyTextMenuItem_Click"/>
+                <MenuItem Name="pasteTextMenuItem" Header="Paste" Click="pasteTextMenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="userTextBox" HorizontalAlignment="Left" Height="299" Margin="0,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="517"/>
+    </Grid>
+</Window>
